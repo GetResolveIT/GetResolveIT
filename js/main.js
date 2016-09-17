@@ -40,7 +40,7 @@ jQuery(function($) {
 		$('.owl-testimonials').owlCarousel({
 			singleItem: true,
 			pagination: true,
-			autoPlay:3000
+			autoPlay:5000
 		});
 		$('.owl-twitter').owlCarousel({
 			singleItem: true,
